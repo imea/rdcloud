@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2015-11-05, 14:16:33
+    Author     : usager
+*/
+
+
+/*----------------------  backgroun photo   ------------------*/
+body { 
+    
+    background: url("../../ImageContext/x.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.panel-default {
+    opacity: 0.9;
+    margin-top:30px;
+}
+.form-group.last { margin-bottom:0px; }
+/*--------------------------------------------------------------------*/
+/*-----------------------------sign up------------------------------------*/
+body{
+    background-color: #525252;
+}
+.centered-form{
+    margin-top: 60px;
+}
+
+.centered-form .panel{
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}
+
+/*--------------------------------------------------------------------*/
+/*-----------------------Welcome------------------------------*/
+ul {
+    padding:0 0 0 0;
+    margin:0 0 0 0;
+}
+ul li {
+    list-style:none;
+    margin-bottom:25px;
+}
+ul li img {
+    cursor: pointer;
+}
+/*--------------------------------------------------------------------*/
+
